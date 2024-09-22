@@ -11,7 +11,7 @@ This repository is dedicated to practicing and refining software architecture sk
 To get started with the katas, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/kata-arch.git
+git clone https://github.com/elkoyote07/kata-arch.git
 cd kata-arch
 ```
 
